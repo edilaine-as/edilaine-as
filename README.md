@@ -6,5 +6,5 @@
   <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edilaine-as&layout=compact&langs_count=7&theme=kacho_ga"/>
 </div>
   
-![Snake animation](https://github.com/edilaine-as)  
+![Snake animation](https://github.com/edilaine-as/edilaine-as/blob/output/github-contribution-grid-snake.svg)  
 
