@@ -1,4 +1,5 @@
 
+<img width="100%" src="background.jpg" alt="backgroung">
 <h1>Olá, eu sou a Edilaine Santos 🌹</h1>
 
 <div>
