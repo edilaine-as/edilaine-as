@@ -13,7 +13,7 @@
   </ul>
 </div>
 
-<h3>Experiences with languages/tools 💻</h3>
+<h3>Experiences with languages 💻</h3>
 <div>
   <img title="HTML5"  align="center" width="40px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" />
   <img title="CSS3" align="center" width="40px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" />
@@ -24,11 +24,13 @@
   <img title="PostgreSQL" align="center" width="40px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" />
 </div>
 
-<h3>Softwares experiences 🛠️</h3>
+<h3>Softwares/tools experiences 🛠️</h3>
 <div>
   <img title="Figma" align="center" width="40px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">
   <img title="Git" align="center" width="40px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg"/>
   <img title="GitHub" align="center" width="40px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>
+  <img title="Tailwind CSS" align="center" width="40px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+  <img title="Bootstrap" align="center" width="40px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
 </div>
 
 <br/>
