@@ -3,22 +3,30 @@
 <h1 align="center">Hello, I'm Edilaine Santos 🌹</h1>
 <img width="100%" src="background-rose.jpg" alt="backgroung">
 
-<div align="center">
+<div align="center" style="display: grid; grid-template-columns: 1fr 1fr;">
   <a href="https://github.com/edilaine-as">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=edilaine-as&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img width="47.4%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edilaine-as&layout=compact&langs_count=7&theme=onedark"/>
+  <img style="height: 200px" src="https://github-readme-stats.vercel.app/api?username=edilaine-as&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <img  style="height: 200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edilaine-as&layout=compact&langs_count=7&theme=onedark"/>
 </div>
 
 ##
 
-<h3>Learning 🌱 </h3>
+<h3>Experiences with languages/tools 💻</h3>
 <div>
-  <img align="center" width="40px" height="30px" src="html5.svg"/>
-  <img align="center" width="40px" height="30px" src="css3.svg"/>
-  <img align="center" width="40px" height="30px" src="javascript.svg"/>
-  <img align="center" width="40px" height="30px" src="java.svg"/>
-  <img align="center" width="40px" height="30px" src="php.svg"/>
-  <img align="center" width="40px" height="30px" src="postgresql.svg"/>
+  <img title="HTML5"  align="center" width="40px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" />
+  <img title="CSS3" align="center" width="40px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" />
+  <img title="JavaScript" align="center" width="40px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
+  <img title="TypeScript" align="center" width="40px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+  <img title="React" align="center" width="40px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img title="PHP" align="center" width="40px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+  <img title="PostgreSQL" align="center" width="40px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" />
+</div>
+
+<h3>Softwares experiences 🛠️</h3>
+<div>
+  <img title="Figma" align="center" width="40px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">
+  <img title="Git" align="center" width="40px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg"/>
+  <img title="GitHub" align="center" width="40px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>
 </div>
 
  ##
