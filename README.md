@@ -31,6 +31,7 @@
   <img title="GitHub" align="center" width="40px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>
   <img title="Tailwind CSS" align="center" width="40px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
   <img title="Bootstrap" align="center" width="40px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+  <img title="styled-components" align="center" width="40px" height="30px" src="./file-type-styled.svg" />
 </div>
 
 <br/>
