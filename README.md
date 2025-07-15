@@ -9,7 +9,6 @@
 <div>
   <ul>
     <li>🌱 I'm a full-stack developer </li>
-    <li>📔 I'm studying front-end development </li>
   </ul>
 </div>
 
